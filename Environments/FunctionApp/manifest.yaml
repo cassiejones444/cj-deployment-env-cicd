@@ -17,7 +17,12 @@ parameters:
     name: 'Supports Https Traffic Only'
     description: 'Allows https traffic only to Storage Account and Functions App if set to true.'
     type: boolean
-
+  
+  - id: location
+    name: Location
+    description: 'Location to deploy the Resource group.'
+    type: string
+    
   - id: runtime
     name: Runtime
     description: 'The language worker runtime to load in the function app.'
@@ -26,4 +31,5 @@ parameters:
       - node
       - dotnet
       - java
+      - python
     default: dotnet
