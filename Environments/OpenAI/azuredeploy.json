@@ -3,27 +3,27 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverfarms_plan_43rnwwnfulnqk_name": {
-            "defaultValue": "plan-43rnwwnfulnqk",
+            "defaultValue": "plan-43rnwwnful698",
             "type": "String"
         },
         "sites_app_backend_43rnwwnfulnqk_name": {
-            "defaultValue": "app-backend-43rnwwnfulnqk",
+            "defaultValue": "app-backend-43rnwwnful698",
             "type": "String"
         },
         "storageAccounts_st43rnwwnfulnqk_name": {
-            "defaultValue": "st43rnwwnfulnqk",
+            "defaultValue": "st43rnwwnfu698k",
             "type": "String"
         },
         "searchServices_gptkb_43rnwwnfulnqk_name": {
-            "defaultValue": "gptkb-43rnwwnfulnqk",
+            "defaultValue": "gptkb-43rnwwnful698",
             "type": "String"
         },
         "accounts_cog_43rnwwnfulnqk_name": {
-            "defaultValue": "cog-43rnwwnfulnqk",
+            "defaultValue": "cog-43rnwwnful698",
             "type": "String"
         },
         "accounts_cog_fr_43rnwwnfulnqk_name": {
-            "defaultValue": "cog-fr-43rnwwnfulnqk",
+            "defaultValue": "cog-fr-43rnwwnful698",
             "type": "String"
         }
     },
